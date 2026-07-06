@@ -3,24 +3,14 @@
     <channel>
         <title>Kioku</title>
         <item>
-            <title>Kioku 0.5.1</title>
-            <pubDate>Sat, 13 Jun 2026 08:00:00 -0600</pubDate>
+            <title>0.5.2</title>
+            <pubDate>Sun, 05 Jul 2026 20:57:49 -0400</pubDate>
             <link>https://github.com/joerodriguez/kioku-releases</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:version>502</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/joerodriguez/kioku-releases/releases/download/v0.5.1/Kioku-0.5.1.dmg" sparkle:edSignature="+Exxc7xxabyobnzg/onsFH6JAiN+BRIzdHliYk6sVmIgnGHcjubGW2YMlMUY/fX0sx+RIWV8xlTKrbhv2oUQDg==" length="4122858" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Kioku 0.5.0</title>
-            <pubDate>Sat, 13 Jun 2026 07:58:04 -0600</pubDate>
-            <link>https://github.com/joerodriguez/kioku-releases</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/joerodriguez/kioku-releases/releases/download/v0.5.0/Kioku-0.5.0.dmg" sparkle:edSignature="sHsehMuAi9REa0t+ZPIA+WsX01eXsvdiby9Cm8ikbTvNUtxbv06IZCA7TreJnXWmuNb0qnUCPAWO/fUvf0pHDQ==" length="3242052" type="application/octet-stream"/>
+            <enclosure url="https://github.com/joerodriguez/kioku-releases/releases/download/v0.5.2/Kioku-0.5.2.dmg" length="4828571" type="application/octet-stream" sparkle:edSignature="ltieJ/TGBqThqg06wSbalTzmfW7UbA2iU5E/2w8DmB9KMBT4BJrbK8OXeSUxY+r+LdZ9jQ5VxWRRXS3NQhW+Bg=="/>
         </item>
     </channel>
 </rss>
