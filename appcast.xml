@@ -3,14 +3,14 @@
     <channel>
         <title>Kioku</title>
         <item>
-            <title>0.8.56</title>
-            <pubDate>Wed, 16 Sep 2026 15:28:57 +0200</pubDate>
+            <title>0.8.58</title>
+            <pubDate>Thu, 17 Sep 2026 08:37:03 +0200</pubDate>
             <link>https://github.com/joerodriguez/kioku-releases</link>
-            <sparkle:version>856</sparkle:version>
-            <sparkle:shortVersionString>0.8.56</sparkle:shortVersionString>
+            <sparkle:version>858</sparkle:version>
+            <sparkle:shortVersionString>0.8.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/joerodriguez/kioku-releases/releases/download/v0.8.56/Kioku-0.8.56.dmg" length="3909589" type="application/octet-stream" sparkle:edSignature="+OhIKih8c/BrNXSn1o+x78v4a9esLLw/1kqoNsc7h0H3WFq00hqTW9sEq2YxdQooLm9sGHeFLgR/LMVc8qCJAQ=="/>
+            <enclosure url="https://github.com/joerodriguez/kioku-releases/releases/download/v0.8.58/Kioku-0.8.58.dmg" length="3912982" type="application/octet-stream" sparkle:edSignature="A2pyG8okw5u0KqMvv5sSFopNVHRN99X1bTyGrU/SUOM0Py7fwKNrbpVz47QYPjIl4xhaYA/28LNr57gm/5GgCA=="/>
         </item>
     </channel>
 </rss>
